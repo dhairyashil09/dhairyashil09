@@ -32,7 +32,7 @@ Currently Learning:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
+<img align="center" src="https://skillicons.dev/icons?i=[linkedin](https://linkedin.com/in/dhairyashil-suryawanshi)" height="45" />
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
