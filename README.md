@@ -44,7 +44,7 @@ Currently Learning:
 </a>
 
 <a href="tel:+918390448095">
-<img align="center" src="https://cdn.simpleicons.org/googlevoice/4285F4" height="45" />
+<img align="center" height="45" alt="image" src="https://github.com/user-attachments/assets/5d20a6c5-2985-4c57-b082-c44eefe42975" />
 </a>
 </p>
 ---
