@@ -42,8 +42,11 @@ Currently Learning:
 <a href="https://github.com/dhairyashil09">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
-</p>
 
+<a href="tel:+918390448095">
+<img align="center" src="https://cdn.simpleicons.org/googlevoice/4285F4" height="45" />
+</a>
+</p>
 ---
 
 # 💻 Tech Stack
