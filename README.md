@@ -31,15 +31,15 @@ Currently Learning:
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/dhairyashil-suryawanshi" target="blank">
+<a href="https://www.linkedin.com/in/dhairyashil-suryawanshi" target="_blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:dhairyashil.suryawanshi@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/dhairyashil09">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 </p>
@@ -71,7 +71,7 @@ Currently Learning:
 </p>
 
 ---
-
+<!--
 # 📊 GitHub Stats
 
 <div align="center">
@@ -83,7 +83,7 @@ Currently Learning:
 <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
 
 </div>
-
+-->
 ---
 
 # 🧠 Currently Learning
@@ -96,7 +96,7 @@ Currently Learning:
 * 🔄 CI/CD Pipelines
 
 ---
-
+<!--
 # 🚀 Featured Projects
 
 ## 🔹 Orange E-Store Service
@@ -128,7 +128,7 @@ Currently Learning:
 * Optimized shipment tracking workflows.
 
 ---
-
+-->
 # 🏆 Certifications
 
 * AWS Cloud Practitioner *(In Progress)*
@@ -140,7 +140,7 @@ Currently Learning:
 # 📈 Profile Views
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=dhairyashil09&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -157,7 +157,7 @@ while(alive) {
 ```
 
 ---
-
+<!--
 # 🎵 Spotify / Music Widget (Optional)
 
 ```md
@@ -243,7 +243,7 @@ https://github-readme-stats.vercel.app
 ```md
 https://github-readme-activity-graph.vercel.app
 ```
-
+-->
 ---
 
 # 📂 How To Use This README
