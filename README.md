@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=DevOps+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;Frontend+Developer+turned+Cloud+Learner;Building+Scalable+and+Modern+Applications" alt="Typing SVG" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=dhairyashil09&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
 
 </div>
 
