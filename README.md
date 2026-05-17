@@ -50,7 +50,7 @@ Currently Learning:
 </a>
 </p>
 
-
+---
 # 💻 Tech Stack
 <!--
 ## ☁️ Cloud & DevOps
@@ -75,7 +75,7 @@ Currently Learning:
 <img src="https://skillicons.dev/icons?i=mysql,vscode" />
 </p>
 -->
----
+
 
 ## ☁️ Cloud & DevOps
 
