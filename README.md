@@ -70,13 +70,6 @@ Currently Learning:
 <img src="https://skillicons.dev/icons?i=mysql,vscode" />
 </p>
 -->
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxzMzN5Y3E3d2M3OW5vYjZqYTVjc2Y1bnl0M3Z4eWN0a3J6YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" height="220"/>
-
-</div>
-
 ---
 
 ## ☁️ Cloud & DevOps
@@ -209,7 +202,7 @@ CI/CD         ████████░░░░░░░ 50%
 
 </div>
 
----
+
 <!--
 # 📊 GitHub Stats
 
