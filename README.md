@@ -288,7 +288,7 @@ while(alive) {
 }
 ```
 
----
+
 <!--
 # 🎵 Spotify / Music Widget (Optional)
 
