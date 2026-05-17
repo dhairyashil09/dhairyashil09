@@ -31,7 +31,7 @@ Currently Learning:
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/dhairyashil-suryawanshi" target="_blank">
+<a href="https://www.linkedin.com/in/dhairyashil-suryawanshi" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
@@ -39,7 +39,7 @@ Currently Learning:
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 
-<a href="https://github.com/dhairyashil09">
+<a href="https://github.com/dhairyashil09" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 
