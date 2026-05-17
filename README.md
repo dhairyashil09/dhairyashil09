@@ -1,16 +1,262 @@
-## Hi there 👋
+# Hi there 👋 I'm Dhairyashil Suryawanshi
 
-<!--
-**dhairyashil09/dhairyashil09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=DevOps+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;Frontend+Developer+turned+Cloud+Learner;Building+Scalable+and+Modern+Applications" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Dhairyashil Suryawanshi
+Location: Pune, India
+Role: Senior Process Executive (Digital Designer)
+Focus: DevOps, Cloud Computing, Linux, Automation
+Background: Frontend Development + SEO + Cloud Learning
+Currently Learning:
+  - AWS
+  - Docker
+  - Kubernetes
+  - Terraform
+  - Linux Administration
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,jenkins,git,github" />
+</p>
+
+---
+
+## 🌍 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,wordpress" />
+</p>
+
+---
+
+## 🗄️ Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🧠 Currently Learning
+
+* ☁️ AWS Cloud Infrastructure
+* 🐳 Docker Containerization
+* ☸️ Kubernetes Orchestration
+* 🏗️ Infrastructure as Code with Terraform
+* 🐧 Linux Administration
+* 🔄 CI/CD Pipelines
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 Orange E-Store Service
+
+**Tech Stack:** Python, Flask, Kubernetes, AWS
+
+* Built backend services integrated with AWS services.
+* Deployed scalable workloads using Kubernetes.
+* Implemented REST APIs and service communication.
+
+---
+
+## 🔹 Azure Cloud Infrastructure Migration
+
+**Tech Stack:** Azure, Kubernetes, Docker, Terraform
+
+* Migrated applications from legacy infrastructure.
+* Improved scalability using AKS and containers.
+* Automated infrastructure provisioning.
+
+---
+
+## 🔹 Shipping Aggregation Platform
+
+**Tech Stack:** PHP, MySQL, MongoDB
+
+* Developed courier aggregation platform.
+* Integrated multiple courier APIs.
+* Optimized shipment tracking workflows.
+
+---
+
+# 🏆 Certifications
+
+* AWS Cloud Practitioner *(In Progress)*
+* Kubernetes Basics
+* Linux Administration Fundamentals
+
+---
+
+# 📈 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```bash
+while(alive) {
+    eat();
+    sleep();
+    learn_cloud();
+    repeat();
+}
+```
+
+---
+
+# 🎵 Spotify / Music Widget (Optional)
+
+```md
+You can add Spotify widgets here later.
+```
+
+---
+
+# 🐍 Contribution Snake Animation
+
+Create a GitHub Action and add this animation:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: YOUR_GITHUB_USERNAME
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then add this below in README:
+
+```md
+![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+```
+
+---
+
+# 📌 README Customization Tips
+
+## Replace These:
+
+| Placeholder                                         | Replace With         |
+| --------------------------------------------------- | -------------------- |
+| YOUR_GITHUB_USERNAME                                | Your GitHub Username |
+| YOUR_LINKEDIN_USERNAME                              | Your LinkedIn URL    |
+| [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com) | Your Email           |
+
+---
+
+# ✨ Extra Animations You Can Add Later
+
+## Typing Animation
+
+```md
+https://readme-typing-svg.demolab.com
+```
+
+## Dev Icons
+
+```md
+https://skillicons.dev
+```
+
+## GitHub Stats
+
+```md
+https://github-readme-stats.vercel.app
+```
+
+## Activity Graph
+
+```md
+https://github-readme-activity-graph.vercel.app
+```
+
+---
+
+# 📂 How To Use This README
+
+1. Create a repository with the same name as your GitHub username.
+2. Add this `README.md` file.
+3. Commit and push.
+4. Your profile README will automatically appear on your GitHub profile.
+
+---
+
+<div align="center">
+
+### 🚀 Building My Journey Towards DevOps & Cloud Engineering
+
+</div>
