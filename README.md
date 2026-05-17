@@ -47,7 +47,7 @@ Currently Learning:
 ---
 
 # 💻 Tech Stack
-
+<!--
 ## ☁️ Cloud & DevOps
 
 <p>
@@ -69,6 +69,145 @@ Currently Learning:
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,vscode" />
 </p>
+-->
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxzMzN5Y3E3d2M3OW5vYjZqYTVjc2Y1bnl0M3Z4eWN0a3J6YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" height="220"/>
+
+</div>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+<br>Kubernetes
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+<br>Terraform
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+<br>Jenkins
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+<br>Bash
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/ansible/EE0000" width="48" height="48" alt="Ansible" />
+<br>Ansible
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Web Development
+
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+<br>HTML
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+<br>CSS
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+<br>WordPress
+</td>
+</tr>
+</table>
+
+---
+
+## 🗄️ Database & Tools
+
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 DevOps Learning Progress
+
+```text
+AWS           ██████████░░░░░ 65%
+Docker        ███████████░░░░ 70%
+Kubernetes    ████████░░░░░░░ 50%
+Terraform     ██████░░░░░░░░░ 40%
+Linux         ████████████░░░ 75%
+CI/CD         ████████░░░░░░░ 50%
+```
+
+---
+
+<div align="center">
+
+### ⚡ “Automating infrastructure one container at a time.”
+
+</div>
 
 ---
 <!--
