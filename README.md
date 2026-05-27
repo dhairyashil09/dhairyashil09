@@ -10,7 +10,7 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
 ```yaml
 Name: Dhairyashil Suryawanshi
@@ -28,7 +28,7 @@ Currently Learning:
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/dhairyashil-suryawanshi" target="blank">
@@ -46,9 +46,9 @@ Currently Learning:
 </p>
 
 ---
-# 💻 Tech Stack
+# Tech Stack
 <!--
-## ☁️ Cloud & DevOps
+## Cloud & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,jenkins,git,github" />
@@ -56,7 +56,7 @@ Currently Learning:
 
 ---
 
-## 🌍 Web Development
+## Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,wordpress" />
@@ -64,7 +64,7 @@ Currently Learning:
 
 ---
 
-## 🗄️ Database & Tools
+## Database & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,vscode" />
@@ -72,7 +72,7 @@ Currently Learning:
 -->
 
 
-## ☁️ Cloud & DevOps
+## Cloud & DevOps
 
 <table align="center">
 <tr>
@@ -132,7 +132,7 @@ Currently Learning:
 
 ---
 
-## 🌐 Web Development
+## Web Development
 
 <table align="center">
 <tr>
@@ -160,7 +160,7 @@ Currently Learning:
 
 ---
 
-## 🗄️ Database & Tools
+## Database & Tools
 
 <table align="center">
 <tr>
@@ -183,7 +183,7 @@ Currently Learning:
 
 ---
 
-## 🚀 DevOps Learning Progress
+## DevOps Learning Progress
 
 ```text
 AWS           ██████████░░░░░ 65%
@@ -198,13 +198,13 @@ CI/CD         ████████░░░░░░░ 50%
 
 <div align="center">
 
-### ⚡ “Automating infrastructure one container at a time.”
+### “Automating infrastructure one container at a time.”
 
 </div>
 
 
 <!--
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -218,14 +218,14 @@ CI/CD         ████████░░░░░░░ 50%
 -->
 ---
 
-# 🧠 Currently Learning
+# Currently Learning
 
-* ☁️ AWS Cloud Infrastructure
-* 🐳 Docker Containerization
-* ☸️ Kubernetes Orchestration
-* 🏗️ Infrastructure as Code with Terraform
-* 🐧 Linux Administration
-* 🔄 CI/CD Pipelines
+* AWS Cloud Infrastructure
+* Docker Containerization
+* Kubernetes Orchestration
+* Infrastructure as Code with Terraform
+* Linux Administration
+* CI/CD Pipelines
 
 ---
 <!--
@@ -261,7 +261,7 @@ CI/CD         ████████░░░░░░░ 50%
 
 ---
 -->
-# 🏆 Certifications
+# Certifications
 
 * AWS Cloud Practitioner *(In Progress)*
 * Kubernetes Basics
@@ -269,7 +269,7 @@ CI/CD         ████████░░░░░░░ 50%
 
 ---
 
-# 📈 Profile Views
+# Profile Views
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=dhairyashil09&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -376,19 +376,20 @@ https://github-readme-stats.vercel.app
 https://github-readme-activity-graph.vercel.app
 ```
 -->
+<!--
 ---
 
-# 📂 How To Use This README
+# How To Use This README
 
 1. Create a repository with the same name as your GitHub username.
 2. Add this `README.md` file.
 3. Commit and push.
 4. Your profile README will automatically appear on your GitHub profile.
-
+-->
 ---
 
 <div align="center">
 
-### 🚀 Building My Journey Towards DevOps & Cloud Engineering
+### Building My Journey Towards DevOps & Cloud Engineering
 
 </div>
