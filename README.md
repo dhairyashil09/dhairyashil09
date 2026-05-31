@@ -19,11 +19,12 @@ Role: Senior Process Executive (Digital Designer)
 Focus: DevOps, Cloud Computing, Linux, Automation
 Background: Frontend Development + SEO + Cloud Learning
 Currently Learning:
-  - AWS
+  - AWS (EC2, S3, Elastic Block Storage, VPC, IAM, AMI, Load Balancer, Router 53, AWS RDS, DynamoDB, CloudWatch)
+  - Linux Administration
   - Docker
   - Kubernetes
   - Terraform
-  - Linux Administration
+  - Git, GitHub
 ```
 
 ---
@@ -174,10 +175,10 @@ Currently Learning:
 <br>VS Code
 </td>
 
-<td align="center" width="96">
+<!-- <td align="center" width="96">
 <img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" height="48" alt="Postman" />
 <br>Postman
-</td>
+</td> -->
 </tr>
 </table>
 
