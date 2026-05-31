@@ -15,9 +15,9 @@
 ```yaml
 Name: Dhairyashil Suryawanshi
 Location: Pune, India
-Role: Senior Process Executive (Digital Designer)
+Role: Senior Process Executive (Digital Designer) at Infosys BPM
 Focus: DevOps, Cloud Computing, Linux, Automation
-Background: Frontend Development + SEO + Cloud Learning
+Background: Frontend Development + Cloud Learning
 Currently Learning:
   - AWS (EC2, S3, Elastic Block Storage, VPC, IAM, AMI, Load Balancer, Router 53, AWS RDS, DynamoDB, CloudWatch)
   - Linux Administration
